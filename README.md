@@ -4,3 +4,5 @@ example
 I love :coffee:
 
 # I love :pizza:
+
+# I love :rose:
